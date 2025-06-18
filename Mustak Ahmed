@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mustak Ahmed | Portfolio</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #0d47a1;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    header p {
+      margin: 10px 0 0;
+      font-size: 1.2em;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #0d47a1;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      margin: 20px 0;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 10px;
+    }
+    footer {
+      background: #0d47a1;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+    a {
+      color: #1565c0;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Mustak Ahmed</h1>
+    <p>Digital Marketer | Translator | SEO Expert | UAE Experienced</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <div class="card">
+      <p>I am Mustak Ahmed, a digital marketer and Spanish-English-Bangla translator with over 8 years of UAE experience. I currently work in Dubai at Best Food Manufacturing Company (Al Hathboor Group) as a Senior Computer Operator. I specialize in Facebook Ads, YouTube SEO, inventory control, and system operations using Oracle R12, Salesforce, and Peachtree.</p>
+    </div>
+
+    <h2>Services</h2>
+    <div class="card">
+      <ul>
+        <li>Facebook Ads Campaign Management</li>
+        <li>YouTube Channel SEO & Optimization</li>
+        <li>Translation (Spanish-English-Bangla)</li>
+        <li>Digital Marketing Strategy</li>
+        <li>Inventory & System Management</li>
+      </ul>
+    </div>
+
+    <h2>Portfolio</h2>
+    <div class="card">
+      <p>See my portfolio: <a href="https://slmustak790.my.canva.site/" target="_blank">slmustak790.my.canva.site</a></p>
+    </div>
+
+    <h2>Contact</h2>
+    <div class="card">
+      <p>Email: slmustakahmed@gmail.com</p>
+      <p>Phone: +8801784586192</p>
+      <p>Location: Dubai | Netrakona, Bangladesh</p>
+      <p>Facebook: <a href="https://facebook.com/" target="_blank">facebook.com</a></p>
+      <p>LinkedIn: <a href="https://linkedin.com/" target="_blank">linkedin.com</a></p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Mustak Ahmed. All rights reserved.</p>
+  </footer>
+</body>
+</html>
